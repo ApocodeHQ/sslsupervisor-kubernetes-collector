@@ -1,0 +1,5 @@
+image:
+  name: 'apocode/sslsupervisor-kubernetes-collector'
+  tag: '0.0.1'
+
+environment: {}
